@@ -14,14 +14,15 @@ We replaced missing product count with 0 We removed outliers by clipping item co
 
 ## Pre-requisites
 Python Packages
-*scikit
-*pandas
-*numpy
-*matplotlib
-*seaborn
-*statsmodels
-*fbprophet
-*xgboost
+
+* scikit
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* statsmodels
+* fbprophet
+* xgboost
 
 ## How to explore the project
 The project is divided into folders
